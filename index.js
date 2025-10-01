@@ -1,1 +1,1 @@
-console.log("Hello Jenkins! Build test successful.");
+console.log("Hello Jenkin!!");
